@@ -1,4 +1,4 @@
-//here everything is class based
+
 // App.js
 import './App.css';
 import React, { Component } from 'react';
